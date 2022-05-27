@@ -6,7 +6,7 @@
 
 
 
-![image]https://github.com/Seofon-7/Photo-website/blob/main/demo2.gif
+![image](https://github.com/Seofon-7/Photo-website/blob/main/demo2.gif)
 
-![image]https://github.com/Seofon-7/Photo-website/blob/main/demo1.gif
+![image](https://github.com/Seofon-7/Photo-website/blob/main/demo1.gif)
 
