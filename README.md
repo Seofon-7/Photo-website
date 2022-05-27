@@ -6,7 +6,7 @@
 
 
 
-https://user-images.githubusercontent.com/28834525/170633588-f5e16e6b-a8d1-40fc-8855-635ab918554c.mp4
+![image]https://github.com/Seofon-7/Photo-website/blob/main/demo2.gif
 
-https://user-images.githubusercontent.com/28834525/170633684-c9ae7750-196c-496a-a8f0-a7b910cd9975.mp4
+![image]https://github.com/Seofon-7/Photo-website/blob/main/demo1.gif
 
